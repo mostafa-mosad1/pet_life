@@ -1,8 +1,9 @@
-import 'package:fff/pages/home_management.dart';
-import 'package:fff/trader/home_managementTrader.dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
+import '../pages/home_management.dart';
+import '../trader/home_managementTrader.dart';
 import '../vet/home_managementVet.dart';
 
 class Signup extends StatefulWidget {

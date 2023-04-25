@@ -1,8 +1,9 @@
-import 'package:fff/trader/add_prodect.dart';
-import 'package:fff/trader/edithome1.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:pet_life/trader/add_prodect.dart';
+import 'package:pet_life/trader/edithome1.dart';
 
 class shop_trader extends StatefulWidget {
   var Pname;

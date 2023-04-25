@@ -1,7 +1,8 @@
-import 'package:fff/pages/shop/carts.dart';
-import 'package:fff/pages/shop/favorite.dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:pet_life/pages/shop/carts.dart';
+import 'package:pet_life/pages/shop/favorite.dart';
 
 class Cat extends StatefulWidget {
   const Cat({Key? key}) : super(key: key);

@@ -1,11 +1,13 @@
 import 'dart:io';
 
-import 'package:fff/components.dart';
-import 'package:fff/pages/profile/edit_profile.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:intl/intl.dart';
+
+import '../../components.dart';
+import 'edit_profile.dart';
 
 class add_animal extends StatefulWidget {
   const add_animal({Key? key}) : super(key: key);

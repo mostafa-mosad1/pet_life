@@ -1,7 +1,9 @@
-import 'package:fff/components.dart';
-import 'package:fff/pages/categorypage/dog.dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:pet_life/dog.dart';
+
+import '../../components.dart';
 
 class category extends StatefulWidget {
   const category({Key? key}) : super(key: key);

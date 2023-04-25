@@ -1,14 +1,15 @@
-import 'package:fff/auth/signin.dart';
-import 'package:fff/pages/doctorpage/doctors.dart';
-import 'package:fff/pages/profile/profile.dart';
-import 'package:fff/pages/search.dart';
-import 'package:fff/pages/about.dart';
-import 'package:fff/pages/services.dart';
-import 'package:fff/pages/shop/favorite.dart';
-import 'package:fff/pages/shop/shop.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
+import 'package:pet_life/auth/signin.dart';
+import 'package:pet_life/pages/about.dart';
+import 'package:pet_life/pages/doctorpage/doctors.dart';
+import 'package:pet_life/pages/profile/profile.dart';
+import 'package:pet_life/pages/search.dart';
+import 'package:pet_life/pages/services.dart';
+import 'package:pet_life/pages/shop/favorite.dart';
+import 'package:pet_life/pages/shop/shop.dart';
 import 'categorypage/category.dart';
 import 'home.dart';
 

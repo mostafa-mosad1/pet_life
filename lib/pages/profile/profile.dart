@@ -1,8 +1,8 @@
-import 'package:fff/components.dart';
-import 'package:fff/pages/profile/edit_profile.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:pet_life/pages/profile/edit_profile.dart';
 import 'package:slide_countdown/slide_countdown.dart';
 
 class Profile extends StatefulWidget {

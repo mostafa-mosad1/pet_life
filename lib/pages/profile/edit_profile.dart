@@ -1,12 +1,14 @@
 import 'dart:io';
 
-import 'package:fff/components.dart';
-import 'package:fff/pages/profile/add_animal.dart';
-import 'package:fff/pages/profile/profile.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:image_picker/image_picker.dart';
+import 'package:pet_life/pages/profile/profile.dart';
+
+import '../../components.dart';
+import 'add_animal.dart';
 
 class edit_profile extends StatefulWidget {
   edit_profile(

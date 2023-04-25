@@ -1,10 +1,11 @@
-import 'package:fff/error.dart';
-import 'package:fff/vet/clinic.dart';
-import 'package:fff/vet/home_doctor.dart';
-import 'package:fff/vet/profile_vet.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
+import 'package:pet_life/error.dart';
+import 'package:pet_life/vet/clinic.dart';
+import 'package:pet_life/vet/home_doctor.dart';
+import 'package:pet_life/vet/profile_vet.dart';
 import '../auth/signin.dart';
 import '../pages/about.dart';
 

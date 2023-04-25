@@ -1,12 +1,9 @@
-import 'package:fff/pages/doctorpage/doctorfive.dart';
-import 'package:fff/pages/doctorpage/doctorfour.dart';
-import 'package:fff/pages/doctorpage/doctorone.dart';
-import 'package:fff/pages/doctorpage/doctorthree.dart';
-import 'package:fff/pages/doctorpage/doctortwo.dart';
-import 'package:fff/pages/doctorpage/notification.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:pet_life/pages/doctorpage/doctorone.dart';
+import 'package:pet_life/pages/doctorpage/notification.dart';
 
 class doctors extends StatefulWidget {
   const doctors({Key? key}) : super(key: key);

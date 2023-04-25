@@ -1,8 +1,8 @@
-import 'package:fff/pages/home_management.dart';
-import 'package:fff/auth/signup.dart';
-import 'package:fff/trader/home_managementTrader.dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:pet_life/auth/signup.dart';
+import 'package:pet_life/pages/home_management.dart';
 
 class Signin extends StatefulWidget {
   const Signin({Key? key}) : super(key: key);

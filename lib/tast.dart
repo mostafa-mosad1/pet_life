@@ -1,12 +1,8 @@
-import 'package:fff/pages/doctorpage/doctors.dart';
-import 'package:fff/pages/home.dart';
-import 'package:fff/pages/shop/accessories.dart';
-import 'package:fff/pages/shop/favorite.dart';
-import 'package:fff/pages/shop/pet.dart';
-import 'package:fff/pages/shop/shop.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
+import 'package:pet_life/pages/shop/accessories.dart';
 import 'package:syncfusion_flutter_datepicker/datepicker.dart';
 
 import 'components.dart';

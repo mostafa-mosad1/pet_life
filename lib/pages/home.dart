@@ -1,9 +1,10 @@
 import 'package:carousel_pro/carousel_pro.dart';
-import 'package:fff/pages/categorypage/category.dart';
-import 'package:fff/pages/shop/pet.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:pet_life/pages/categorypage/category.dart';
+import 'package:pet_life/pages/shop/pet.dart';
 
 import 'doctorpage/doctors.dart';
 

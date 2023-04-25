@@ -1,18 +1,18 @@
 import 'package:carousel_pro/carousel_pro.dart';
-import 'package:fff/components.dart';
-import 'package:fff/pages/shop/accessories.dart';
-import 'package:fff/pages/shop/drugs.dart';
-import 'package:fff/pages/shop/food.dart';
-import 'package:fff/pages/shop/pet.dart';
-import 'package:fff/pages/shop/shop_management.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:pet_life/pages/shop/accessories.dart';
+import 'package:pet_life/pages/shop/drugs.dart';
+import 'package:pet_life/pages/shop/food.dart';
+import 'package:pet_life/pages/shop/pet.dart';
 
 import '../../auth/signup.dart';
+import '../../components.dart';
 
 class shop extends StatefulWidget {
   const shop({Key? key}) : super(key: key);

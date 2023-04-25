@@ -1,6 +1,6 @@
-import 'package:fff/pages/categorypage/dogdata.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:pet_life/pages/categorypage/dogdata.dart';
 
 class Dog extends StatefulWidget {
   const Dog({Key? key}) : super(key: key);

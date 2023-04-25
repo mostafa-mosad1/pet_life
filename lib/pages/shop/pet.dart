@@ -1,9 +1,9 @@
 
-import 'package:fff/cat.dart';
-import 'package:fff/pages/shop/favorite.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:badges/badges.dart' as badges;
+import 'package:pet_life/cat.dart';
+import 'package:pet_life/pages/shop/favorite.dart';
 import 'carts.dart';
 
 class pet extends StatefulWidget {

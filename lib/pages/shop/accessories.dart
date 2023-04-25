@@ -1,8 +1,8 @@
 import 'package:badges/badges.dart' as badges;
-import 'package:fff/cat.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
+import '../../cat.dart';
 import 'carts.dart';
 import 'favorite.dart';
 
