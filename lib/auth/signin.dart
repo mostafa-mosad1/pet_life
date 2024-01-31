@@ -2,7 +2,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:pet_life/auth/signup.dart';
-import 'package:pet_life/pages/home_management.dart';
 
 class Signin extends StatefulWidget {
   const Signin({Key? key}) : super(key: key);
@@ -112,11 +111,7 @@ class _SigninState extends State<Signin> {
                             width: 200,
                             child: MaterialButton(
                               onPressed: () {
-                                Navigator.push(
-                                    context,
-                                    MaterialPageRoute(
-                                      builder: (context) => home_management(),
-                                    ));
+
                               },
                               child: Text(
                                 "Login",
